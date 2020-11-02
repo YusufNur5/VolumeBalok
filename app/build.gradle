@@ -6,7 +6,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.example.pertemuan2"
+        applicationId "com.example.pcs_volumebalok_0097"
         minSdkVersion 22
         targetSdkVersion 30
         versionCode 1
